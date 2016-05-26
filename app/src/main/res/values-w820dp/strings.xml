@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_1">Sitios Principales</string>
+    <string name="titulo_2">General</string>
+    <string name="titulo_3">Transporte</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="ayuda_asistencia">Ayuda y asistencia</string>
+</resources>

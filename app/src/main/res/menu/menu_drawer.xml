@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+    <item android:id="@+id/pasos"
+        android:title="@string/primeros_pasos"
+        android:icon="@drawable/pasos"></item>
+
+    <item android:id="@+id/ayudaAsistencia"
+        android:title="@string/ayuda_asistencia"
+        android:icon="@drawable/asistencia"></item>
+
+    <item android:id="@+id/terminosCondiciones"
+        android:title="@string/terminos_condiciones"
+        android:icon="@drawable/info"></item>
+
+</group>
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="@string/otras_opciones">
+    <menu>
+        <item android:id="@+id/creditos"
+            android:title="@string/creditos"
+            android:icon="@drawable/identidy"></item>
+
+        <item android:id="@+id/ajustes"
+            android:title="@string/ajustes"
+            android:icon="@drawable/ajustes"></item>
+    </menu>
+    </item>
+</menu>
